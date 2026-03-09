@@ -34,8 +34,8 @@
     "subtitle": "Transformo ideas en piezas visuales con alma. Cada proyecto es una conversación entre forma, color y propósito.",
     "tag": "Creatividad · Color",
     "images": {
-      "main":   { "src": "/public/images/image1.jpeg",  "alt": "Portfolio hero"        },
-      "accent": { "src": "/public/images/image2.jpeg",   "alt": "Photography accent"    }
+      "main":   { "src": "/images/image1.jpeg",  "alt": "Portfolio hero"        },
+      "accent": { "src": "/images/image2.jpeg",   "alt": "Photography accent"    }
     },
     "cta": {
       "whatsapp":  { "label": "WhatsApp",  "url": "https://wa.me/5218447789817"             },
@@ -64,16 +64,16 @@
     "titleNormal": "Momentos que",
     "titleItalic": "se quedan.",
     "photos": [
-      { "src": "/public/images/fotos/image1.jpg", "alt": "Foto 1", "label": "Foto 1" },
-      { "src": "/public/images/fotos/image2.jpg", "alt": "Foto 2", "label": "Foto 2" },
-      { "src": "/public/images/fotos/image3.jpg", "alt": "Foto 3", "label": "Foto 3" },
-      { "src": "/public/images/fotos/image4.jpg", "alt": "Foto 4", "label": "Foto 4" },
-      { "src": "/public/images/fotos/image6.jpg", "alt": "Foto 6", "label": "Foto 6" },
-      { "src": "/public/images/fotos/image7.jpg", "alt": "Foto 7", "label": "Foto 7" },
-      { "src": "/public/images/fotos/image8.jpg", "alt": "Foto 8", "label": "Foto 8" },
-      { "src": "/public/images/fotos/image9.jpg", "alt": "Foto 9", "label": "Foto 9" },
-      { "src": "/public/images/fotos/image10.jpg", "alt": "Foto 10", "label": "Foto 10" },
-      { "src": "/public/images/fotos/image11.jpg", "alt": "Foto 11", "label": "Foto 11" }
+      { "src": "/images/fotos/image1.jpg", "alt": "Foto 1", "label": "Foto 1" },
+      { "src": "/images/fotos/image2.jpg", "alt": "Foto 2", "label": "Foto 2" },
+      { "src": "/images/fotos/image3.jpg", "alt": "Foto 3", "label": "Foto 3" },
+      { "src": "/images/fotos/image4.jpg", "alt": "Foto 4", "label": "Foto 4" },
+      { "src": "/images/fotos/image6.jpg", "alt": "Foto 6", "label": "Foto 6" },
+      { "src": "/images/fotos/image7.jpg", "alt": "Foto 7", "label": "Foto 7" },
+      { "src": "/images/fotos/image8.jpg", "alt": "Foto 8", "label": "Foto 8" },
+      { "src": "/images/fotos/image9.jpg", "alt": "Foto 9", "label": "Foto 9" },
+      { "src": "/images/fotos/image10.jpg", "alt": "Foto 10", "label": "Foto 10" },
+      { "src": "/images/fotos/image11.jpg", "alt": "Foto 11", "label": "Foto 11" }
 
     ]
   },
@@ -84,21 +84,21 @@
     "titleItalic": "conversan.",
     "subtitle": "Proyectos impresos y digitales donde el detalle importa tanto como la idea principal.",
     "folletos": [
-      { "title": "8M fig. 1",    "category": "Banner", "src": "/public/images/design/banners/banner 1.jpg", "alt": "8M fig. 1"    },
-      { "title": "8M fig. 2",  "category": "Banner",    "src": "/public/images/design/banners/banner 2.jpg", "alt": "8M fig. 2"  },
-      { "title": "8M fig. 3",  "category": "Banner",    "src": "/public/images/design/banners/banner 3.jpg", "alt": "8M fig. 3"  },
-      { "title": "8M fig. 4",   "category": "Banner",  "src": "/public/images/design/banners/banner 4.jpg", "alt": "8M fig. 4"   },
-      { "title": "Fuera de camino",    "category": "Cartel", "src": "/public/images/design/carteles/image1.jpg", "alt": "Fuera de camino"    },
-      { "title": "BMX",  "category": "Cartel",    "src": "/public/images/design/carteles/image4.jpg", "alt": "Folleto Estudio Botánico"  },
-      { "title": "Moda",   "category": "Fotografía públicitaria",  "src": "/public/images/design/carteles/image5.jpg", "alt": "Moda"   },
-      { "title": "Exposición de arte",    "category": "Banner", "src": "/public/images/design/carteles/image6.jpg", "alt": "Exposición de arte"    },
-      { "title": "Canción Ilustrada",  "category": "Collage análogo",    "src": "/public/images/design/collages/image1.jpg", "alt": "Folleto Estudio Botánico"  },
-      { "title": "Identidad",   "category": "Collage",  "src": "/public/images/design/collages/image4.jpg", "alt": "Identidad"   }
+      { "title": "8M fig. 1",    "category": "Banner", "src": "/images/design/banners/banner 1.jpg", "alt": "8M fig. 1"    },
+      { "title": "8M fig. 2",  "category": "Banner",    "src": "/images/design/banners/banner 2.jpg", "alt": "8M fig. 2"  },
+      { "title": "8M fig. 3",  "category": "Banner",    "src": "/images/design/banners/banner 3.jpg", "alt": "8M fig. 3"  },
+      { "title": "8M fig. 4",   "category": "Banner",  "src": "/images/design/banners/banner 4.jpg", "alt": "8M fig. 4"   },
+      { "title": "Fuera de camino",    "category": "Cartel", "src": "/images/design/carteles/image1.jpg", "alt": "Fuera de camino"    },
+      { "title": "BMX",  "category": "Cartel",    "src": "/images/design/carteles/image4.jpg", "alt": "Folleto Estudio Botánico"  },
+      { "title": "Moda",   "category": "Fotografía públicitaria",  "src": "/images/design/carteles/image5.jpg", "alt": "Moda"   },
+      { "title": "Exposición de arte",    "category": "Banner", "src": "/images/design/carteles/image6.jpg", "alt": "Exposición de arte"    },
+      { "title": "Canción Ilustrada",  "category": "Collage análogo",    "src": "/images/design/collages/image1.jpg", "alt": "Folleto Estudio Botánico"  },
+      { "title": "Identidad",   "category": "Collage",  "src": "/images/design/collages/image4.jpg", "alt": "Identidad"   }
     ],
     "extras": [
-  { "title": "Invitación a taller", "category": "Banner", "src": "/public/images/design/invitaciones/image1.jpg", "alt": "Invitación a taller" },
-  { "title": "Charla", "category": "Banner", "src": "/public/images/design/invitaciones/image2.jpg", "alt": "Charla" },
-  { "title": "Creación de personaje", "category": "Banner", "src": "/public/images/design/invitaciones/image3.jpg", "alt": "Creación de personaje" }
+  { "title": "Invitación a taller", "category": "Banner", "src": "/images/design/invitaciones/image1.jpg", "alt": "Invitación a taller" },
+  { "title": "Charla", "category": "Banner", "src": "/images/design/invitaciones/image2.jpg", "alt": "Charla" },
+  { "title": "Creación de personaje", "category": "Banner", "src": "/images/design/invitaciones/image3.jpg", "alt": "Creación de personaje" }
 ]
   },
 
