@@ -1,0 +1,126 @@
+{
+  "theme": {
+    "colors": {
+      "ink":        "#1a1a18",
+      "cream":      "#f5f0e8",
+      "warm":       "#f0e8d8",
+      "accent":     "#c4522a",
+      "accentAlt":  "#d4a017",
+      "blush":      "#e8c4a8",
+      "dark":       "#2c2820"
+    },
+    "fonts": {
+      "display": "Cormorant Garamond",
+      "body":    "Outfit"
+    }
+  },
+
+  "nav": {
+    "logo":  "Pilar Rojas (PilArt)",
+    "links": [
+      { "label": "Sobre mí",   "href": "#about"      },
+      { "label": "Fotografía", "href": "#fotografia" },
+      { "label": "Diseño",     "href": "#disenos"    },
+      { "label": "Contacto",   "href": "#footer"     }
+    ]
+  },
+
+  "hero": {
+    "eyebrow":  "Ilustración · Impresión · Fotografía",
+    "titleLine1": "Diseño que",
+    "titleItalic": "se siente,",
+    "titleBold":   "fotografía",
+    "titleLine4":  "que cuenta.",
+    "subtitle": "Transformo ideas en piezas visuales con alma. Cada proyecto es una conversación entre forma, color y propósito.",
+    "tag": "Creatividad · Color",
+    "images": {
+      "main":   { "src": "/public/images/image1.jpeg",  "alt": "Portfolio hero"        },
+      "accent": { "src": "/public/images/image2.jpeg",   "alt": "Photography accent"    }
+    },
+    "cta": {
+      "whatsapp":  { "label": "WhatsApp",  "url": "https://wa.me/5218447789817"             },
+      "instagram": { "label": "Instagram", "url": "https://www.instagram.com/pilart_e/"   }
+    }
+  },
+
+  "about": {
+    "sectionLabel": "Sobre mí",
+    "titleNormal": "Creo con",
+    "titleItalic": "intención,",
+    "titleLine2":  "diseño con alma.",
+ "paragraphs": [
+      "Soy diseñadora grafica con 6 años de experiencia convirtiendo ideas visuales tangibles.",
+      "Diseño, capturo, ilustro y materializo. Soy una creativa multidisciplinaria enfocada en dar soluciones visuales integrales. Mi experiencia me permite transitar con fluidez entre lo digital y lo impreso, asegurando que cada concepto mantenga su esencia y calidad en cualquier formato."
+    ],
+    "pillars": [
+      { "num": "01", "title": "Fotografía",     "desc": "Documental, producto, naturaleza."     },
+      { "num": "02", "title": "Ilustración", "desc": "Editorial, públicitaria (cártel) e Infografía, usando técnicas mixtas como: digital, tradicional (tinta china, acrílico, acuarela) y collage."         },
+      { "num": "03", "title": "Impresión",      "desc": "Vinil de corte (autoadherible y textil), dtf, sublimación, cianotipia."}
+    ]
+  },
+
+  "fotografia": {
+    "sectionLabel": "Fotografía",
+    "titleNormal": "Momentos que",
+    "titleItalic": "se quedan.",
+    "photos": [
+      { "src": "/public/images/fotos/image1.jpg", "alt": "Foto 1", "label": "Foto 1" },
+      { "src": "/public/images/fotos/image2.jpg", "alt": "Foto 2", "label": "Foto 2" },
+      { "src": "/public/images/fotos/image3.jpg", "alt": "Foto 3", "label": "Foto 3" },
+      { "src": "/public/images/fotos/image4.jpg", "alt": "Foto 4", "label": "Foto 4" },
+      { "src": "/public/images/fotos/image6.jpg", "alt": "Foto 6", "label": "Foto 6" },
+      { "src": "/public/images/fotos/image7.jpg", "alt": "Foto 7", "label": "Foto 7" },
+      { "src": "/public/images/fotos/image8.jpg", "alt": "Foto 8", "label": "Foto 8" },
+      { "src": "/public/images/fotos/image9.jpg", "alt": "Foto 9", "label": "Foto 9" },
+      { "src": "/public/images/fotos/image10.jpg", "alt": "Foto 10", "label": "Foto 10" },
+      { "src": "/public/images/fotos/image11.jpg", "alt": "Foto 11", "label": "Foto 11" }
+
+    ]
+  },
+
+  "disenos": {
+    "sectionLabel": "Diseño Gráfico",
+    "titleNormal": "Piezas que",
+    "titleItalic": "conversan.",
+    "subtitle": "Proyectos impresos y digitales donde el detalle importa tanto como la idea principal.",
+    "folletos": [
+      { "title": "8M fig. 1",    "category": "Banner", "src": "/public/images/design/banners/banner 1.jpg", "alt": "8M fig. 1"    },
+      { "title": "8M fig. 2",  "category": "Banner",    "src": "/public/images/design/banners/banner 2.jpg", "alt": "8M fig. 2"  },
+      { "title": "8M fig. 3",  "category": "Banner",    "src": "/public/images/design/banners/banner 3.jpg", "alt": "8M fig. 3"  },
+      { "title": "8M fig. 4",   "category": "Banner",  "src": "/public/images/design/banners/banner 4.jpg", "alt": "8M fig. 4"   },
+      { "title": "Fuera de camino",    "category": "Cartel", "src": "/public/images/design/carteles/image1.jpg", "alt": "Fuera de camino"    },
+      { "title": "BMX",  "category": "Cartel",    "src": "/public/images/design/carteles/image4.jpg", "alt": "Folleto Estudio Botánico"  },
+      { "title": "Moda",   "category": "Fotografía públicitaria",  "src": "/public/images/design/carteles/image5.jpg", "alt": "Moda"   },
+      { "title": "Exposición de arte",    "category": "Banner", "src": "/public/images/design/carteles/image6.jpg", "alt": "Exposición de arte"    },
+      { "title": "Canción Ilustrada",  "category": "Collage análogo",    "src": "/public/images/design/collages/image1.jpg", "alt": "Folleto Estudio Botánico"  },
+      { "title": "Identidad",   "category": "Collage",  "src": "/public/images/design/collages/image4.jpg", "alt": "Identidad"   }
+    ],
+    "extras": [
+  { "title": "Invitación a taller", "category": "Banner", "src": "/public/images/design/invitaciones/image1.jpg", "alt": "Invitación a taller" },
+  { "title": "Charla", "category": "Banner", "src": "/public/images/design/invitaciones/image2.jpg", "alt": "Charla" },
+  { "title": "Creación de personaje", "category": "Banner", "src": "/public/images/design/invitaciones/image3.jpg", "alt": "Creación de personaje" }
+]
+  },
+
+  "vinilos": {
+    "sectionLabel": "Vinilos & Stickers",
+    "titleNormal": "Diseños que",
+    "titleItalic": "se pegan.",
+    "items": [
+      { "title": "Sol de Verano",  "category": "Sticker · Die-Cut",       "src": "https://picsum.photos/seed/vinyl1/400/400", "alt": "Vinilo Sol de Verano"  },
+      { "title": "Flora Abstracta","category": "Vinilo · Redondo",         "src": "https://picsum.photos/seed/vinyl2/400/400", "alt": "Vinilo Flora Abstracta"},
+      { "title": "Geometría Viva", "category": "Sticker · Serie",          "src": "https://picsum.photos/seed/vinyl3/400/400", "alt": "Vinilo Geometría Viva" },
+      { "title": "Luna & Tinta",   "category": "Vinilo · Edición Limitada","src": "https://picsum.photos/seed/vinyl4/400/400", "alt": "Vinilo Luna y Tinta"   }
+    ]
+  },
+
+  "footer": {
+    "logo":    "Pilar Rojas (PilArt)",
+    "tagline": "Diseño con alma · Fotografía con intención",
+    "copy":    "© 2026 Pilar Rojas. Todos los derechos reservados.",
+    "contact": {
+      "whatsapp":  { "label": "WhatsApp",  "url": "https://wa.me/5218447789817"           },
+      "instagram": { "label": "Instagram", "url": "https://www.instagram.com/pilart_e/" }
+    }
+  }
+}
